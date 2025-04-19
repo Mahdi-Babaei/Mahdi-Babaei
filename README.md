@@ -46,7 +46,7 @@ let juniorDev = {
 <br>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahdi-Babaei&theme=dark&layout=donut">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahdi-Babaei&theme=dark&hide_progress=true">
 </p>
 
 <br>
