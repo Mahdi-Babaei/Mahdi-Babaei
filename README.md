@@ -1,8 +1,6 @@
 ## Hi there 👋 I'm Mohammad Mahdi Babaei 
 
-<p align="center">  
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
-</p>
+
 
 <h3><img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" width="20px"> About me</h2>
 
@@ -57,3 +55,10 @@ let juniorDev = {
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahdi-Babaei&theme=dark&hide_progress=true">
 </p>
+
+<br>
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
+
