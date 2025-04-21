@@ -1,7 +1,4 @@
-
-
-## Hi there 👋 I'm Mohammad Mahdi Babaei 
-
+<h2> Hi there <img src="https://symbl-world.akamaized.net/i/webp/32/e70ddf12ec8dc727eb8c1e6f4a31dc.webp" width="20px"> I'm Mohammad Mahdi Babaei </h2>
 
 
 <h3><img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" width="20px"> About me</h2>
