@@ -37,13 +37,13 @@ let juniorDev = {
 <br>
 
 <h3>
-    <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="20px">
+    <img src="https://img.icons8.com/nolan/64/link.png" width="20px">
     Socials
 </h3>
-<a href="https://t.me/lastxfighter"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
-<a href="https://instagram.com/lastxfighter"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href=""><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href=""><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white"></a>
+<a href="https://t.me/lastxfighter"><img src="https://img.icons8.com/fluency/48/telegram-app.png"></a>
+<a href="https://instagram.com/lastxfighter"><img src="https://img.icons8.com/fluency/48/instagram-new.png"></a>
+<a href="https://github.com/Mahdi-Babaei"><img src="https://img.icons8.com/fluency/48/linkedin.png"></a>
+<a href="https://github.com/Mahdi-Babaei"><img src="https://img.icons8.com/color/48/whatsapp--v1.png" alt="whatsapp"></a>
 
 
 <br>
