@@ -41,9 +41,9 @@ let juniorDev = {
 </h3>
 <a href="https://t.me/lastxfighter"><img src="https://img.icons8.com/fluency/48/telegram-app.png"></a>
 <a href="https://instagram.com/lastxfighter"><img src="https://img.icons8.com/fluency/48/instagram-new.png"></a>
-<a href="https://linkedin.com/in/mahdi-babaei-149018365"><img src="https://img.icons8.com/fluency/48/linkedin.png"></a>
+<!-- <a href="https://linkedin.com/in/mahdi-babaei-149018365"><img src="https://img.icons8.com/fluency/48/linkedin.png"></a>
 <a href="https://github.com/Mahdi-Babaei"><img src="https://img.icons8.com/color/48/whatsapp--v1.png" alt="whatsapp"></a>
-
+ -->
 
 <br>
 
