@@ -49,8 +49,13 @@ let juniorDev = {
 <br>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahdi-Babaei&theme=dark&hide_progress=true">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahdi-Babaei&theme=dark&hide_progress=true&hide_border=true">    
 </p>
+
+<p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahdi-babaei&theme=dark&hide_border=true">
+</p>
+
 
 <br>
 
