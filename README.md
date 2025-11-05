@@ -26,7 +26,7 @@ let juniorDev = {
     Skills
 </h3>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,react,git">
+<img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,react,git,next">
 
 ---
 
