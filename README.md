@@ -10,7 +10,7 @@ let juniorDev = {
     age: 18,
     birthDate: "Jun 29, 2007",
     hobbies: ["coding", "videoGames" , "Football"],
-    university: "Islamic Azad University of Zanjan",
+    university: "Azad University of Zanjan",
     fieldOfStudy: "Computer Engineering"
 }
 ```
